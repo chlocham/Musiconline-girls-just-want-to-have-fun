@@ -1,0 +1,1 @@
+Exercice from the NTD 214 class (CNAM-Paris): building a humble page with HTML5 and CSS style sheets. I hope I will succeed in linking it to my database of great songs from best female singers from the 80's.
