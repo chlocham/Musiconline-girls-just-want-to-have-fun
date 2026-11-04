@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "LuckiestGuy";
+	src : url("fonts/LuckiestGuy.ttf")
+	}
+.banner {
+	width:900px;
+	height:450px;
+	}
+h1 {
+	color:#d921cb;
+	font-family: "LuckiestGuy", sans-serif;
+}
